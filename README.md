@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Balamithra
 
-<!--
-**tcbalamithra/tcbalamithra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Mobile App Developer  
+📱 Android | iOS | Capacitor  
+🚀 Passionate about building real-world apps  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Skills
+- Capacitor
+- HTML, CSS, JavaScript
+- Mobile App Development
+
+---
+
+## 📂 Projects
+- 🔗 Capacitor Demo App
+- 🔗 Audio Recording App
+- 🔗 Cordova to Capacitor Migration
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=tcbalamithra&show_icons=true)
+
+---
+
+## 📫 Contact
+- Email: tcbalamithra@gmail.com
