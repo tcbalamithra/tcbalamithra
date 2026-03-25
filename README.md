@@ -1,21 +1,22 @@
 # 👋 Hi, I'm Balamithra
 
 💻 Aspiring Mobile App Developer  
-📱 Android | iOS | Capacitor  
+📱 Android | iOS | Capacitor  | Cordova 
 🚀 Passionate about building real-world apps  
 
 ---
 
 ## 🔥 Skills
 - Capacitor
+- Cordova
 - HTML, CSS, JavaScript
+- Java, Objective C
 - Mobile App Development
 
 ---
 
 ## 📂 Projects
 - 🔗 Capacitor Demo App
-- 🔗 Audio Recording App
 - 🔗 Cordova to Capacitor Migration
 
 ---
