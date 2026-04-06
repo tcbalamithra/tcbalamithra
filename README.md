@@ -10,7 +10,9 @@
 - Capacitor
 - Cordova
 - HTML, CSS, JavaScript
-- Java, Objective C
+- Python, Java, Objective C
+- MySql
+- Web Development
 - Mobile App Development
 
 ---
@@ -18,6 +20,8 @@
 ## 📂 Projects
 - 🔗 Capacitor Demo App
 - 🔗 Cordova to Capacitor Migration
+- 🔗 Smart Notes App
+- 🔗 Expense Tracker App
 
 ---
 
